@@ -10,6 +10,8 @@ body nav  {
     font-weight: 500;
     z-index: 1000;
     background-color: rgba(67,8,9,1.00);
+    -webkit-box-shadow: 0px 0px 20px;
+    box-shadow: 0px 0px 20px;
 }
 header {
     background-image: url(clay-banks-hi_52O-h5G8-unsplash.jpg);
@@ -19,6 +21,8 @@ header {
     font-size: 119px;
     padding-top: 115px;
     margin-top: 80px;
+    background-position: center bottom;
+    background-size: cover;
 }
 header h1 {
     font-size: 49px;
